@@ -1,5 +1,6 @@
 from pymongo import MongoClient
 import pandas as pd
+import numpy as np
 
 
 client = MongoClient('mongodb://your_mongo_uri')#yeh example uri hai tum apna daalo
